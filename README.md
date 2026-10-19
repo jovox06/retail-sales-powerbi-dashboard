@@ -50,9 +50,9 @@ dashboard design, data storytelling.
 2. Open it with Power BI Desktop (free from Microsoft).
 
 ## Files
-- `Retail_Sales_Dashboard.pbix` – Power BI report
-- `dashboard_page1.png`, `dashboard_page2.png` – screenshots
-- `data/` – dataset used
+- `RetailSales Dashboard.pbix` – Power BI report
+- `Page-1.png`, `Page-2.png` – screenshots
+- `Retail_Sales_Data.csv` – dataset used
 
 ## Author
 Javohir Yunusov, Data Analyst | [LinkedIn](https://www.linkedin.com/in/javohir-yunusov-705424295)
