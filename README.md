@@ -47,7 +47,7 @@ dashboard design, data storytelling.
 
 ## How to Open
 1. Download `Retail_Sales_Dashboard.pbix` from this repository.
-2. Open it with Power BI Desktop (free from Microsoft).
+2. Open it with Power BI Desktop.
 
 ## Files
 - `RetailSales Dashboard.pbix` – Power BI report
