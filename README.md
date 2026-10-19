@@ -5,7 +5,7 @@ orders for January–June 2023.
 
 ## Dashboard Preview
 ### Page 1 – Overview
-![Overview](Page-2.png)
+![Overview](Page-1.png)
 
 ### Page 2 – Detailed Analysis
 ![Detailed Analysis](Page-2.png)
